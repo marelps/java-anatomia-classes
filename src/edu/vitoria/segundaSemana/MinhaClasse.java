@@ -1,3 +1,4 @@
+package edu.vitoria.segundaSemana;
 public class MinhaClasse {
 
     public static void main (String [] args) {
